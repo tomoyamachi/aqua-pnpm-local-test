@@ -1,0 +1,9 @@
+{
+  "checksums": [
+    {
+      "id": "github_release/github.com/pnpm/pnpm/v9.0.2/pnpm-macos-arm64",
+      "checksum": "09D9B73FB742AA4CC700CB57A7481AD8B2811F4D69C00D9D256B4B57F9CAD422",
+      "algorithm": "sha256"
+    }
+  ]
+}
